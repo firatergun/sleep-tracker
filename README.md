@@ -22,9 +22,9 @@ To start the client:
 - Navigate to client application folder `cd /client` 
 - Simply run `npm run dev` in terminal
 
-![User Creation and Sleep duration submit form](image-2.png)
-![Form Validation](image-3.png)
-![All Users Table with Name, Gender and number of Total Logs ](image-1.png)
-![Last Sleep Durations for the last 7 Days](image.png)
+![User Creation and Sleep duration submit form](images/image-2.png)
+![Form Validation](images/image-3.png)
+![All Users Table with Name, Gender and number of Total Logs ](images/image-1.png)
+![Last Sleep Durations for the last 7 Days](images/image.png)
 
 
