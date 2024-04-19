@@ -12,6 +12,10 @@ First start the server application:
 - Navigate to server application `cd /server` in terminal
 - First install dependencies by running `npm i` in terminal
 - Start the DB (Postgresql) container with `docker compose up`
+- Create .env file and put the following definition for DB url
+    ````js
+    DATABASE_URL="postgresql://root:root@localhost:5432/sleeper"
+    ````
 - Initialize Prisma client `npx prisma generate`
 - Push DB schema definitions with `npx prisma db push`
 - Seed DB with initial Data `npx ts-node prisma/seed` --> (Required)
