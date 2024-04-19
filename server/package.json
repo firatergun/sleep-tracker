@@ -1,7 +1,7 @@
 {
-  "name": "hotelbooking",
+  "name": "SleepTracker",
   "version": "1.0.0",
-  "description": "Hotel Booking Application",
+  "description": "Sleep Tracker Application",
   "main": "index.js",
   "prisma": {
     "seed": "ts-node prisma/seed.ts"
